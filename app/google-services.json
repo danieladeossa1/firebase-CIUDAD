@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42440140291",
+    "project_id": "fir-ciudad",
+    "storage_bucket": "fir-ciudad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42440140291:android:abcdfd236f8a2586025036",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ciudad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42440140291-k0ubfbj3cf07vqikmkcod3npa0r1s4ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwiEUJGsec0BHIO20k3udnBxC5c10nr9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42440140291-k0ubfbj3cf07vqikmkcod3npa0r1s4ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
